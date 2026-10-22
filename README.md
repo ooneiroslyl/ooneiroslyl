@@ -126,7 +126,6 @@ JRPG / SIM 游戏    ██████░░░
   <a href="mailto:1287290160@qq.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://space.bilibili.com/"><img src="https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" /></a>
   <a href="https://weibo.com/"><img src="https://img.shields.io/badge/Weibo-E6162D?style=for-the-badge&logo=weibo&logoColor=white" /></a>
-  <a href="https://ooverthing.example"><img src="https://img.shields.io/badge/Blog-7c6df2?style=for-the-badge&logo=wordpress&logoColor=white" /></a>
 </p>
 
 ---
