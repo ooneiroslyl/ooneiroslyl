@@ -88,6 +88,14 @@
 
 ---
 
+## 🐍 贡献足迹 / Contributions
+
+<p align="center">
+  <img src="./dist/github-contribution-grid-snake-dark.svg" alt="贡献贪吃蛇" />
+</p>
+
+---
+
 ## 🌟 精选项目 / Featured
 
 > 💡 把下面的链接换成你真实的仓库地址即可（目前为空，等你把项目推上来）。
@@ -116,6 +124,14 @@
   <a href="https://space.bilibili.com/"><img src="https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" /></a>
   <a href="https://weibo.com/"><img src="https://img.shields.io/badge/Weibo-E6162D?style=for-the-badge&logo=weibo&logoColor=white" /></a>
   <a href="https://ooverthing.example"><img src="https://img.shields.io/badge/Blog-7c6df2?style=for-the-badge&logo=wordpress&logoColor=white" /></a>
+</p>
+
+---
+
+## 💬 今日格言 / Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="quote" />
 </p>
 
 ---
