@@ -12,13 +12,13 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=ooneiroslyl&label=Profile%20Views&color=7c6df2&style=flat-square" alt="访客计数" />
+<img src="https://komarev.com/ghpvc/?username=ooneiroslyl&label=Profile%20Views&color=ff7eb6&style=flat-square" alt="访客计数" />
 
 # 你好，我是 **ooneiroslyl** 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3200&pause=1200&center=true&vCenter=true&multiline=true&width=620&height=60&lines=Designer+%C2%B7+Maker+%C2%B7+Tinkerer;Turning+everyday+life+into+a+portfolio" alt="打字动画" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3200&pause=1200&center=true&vCenter=true&multiline=true&width=680&height=60&lines=Photographer+%C2%B7+Traveler+%C2%B7+Creator;%E7%94%A8%E5%BF%AB%E9%97%A8%E6%94%B6%E8%97%8F%E4%B8%96%E7%95%8C%E7%9A%84%E7%A2%8E%E7%89%87" alt="打字动画" />
 
-*用设计把生活过成作品集 · Crafting life into a portfolio*
+*用快门收藏世界，用文字留住时间 · Capturing the world, one frame at a time*
 
 </div>
 
@@ -61,7 +61,7 @@ JRPG / SIM 游戏    ██████░░░
 ## 🛠 工具箱 / Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,flask,nodejs,git,github,figma,photoshop,premiere,illustrator,davinciresolve,blender,linux,windows&theme=dark&perline=9" alt="技术栈" />
+  <img src="https://skillicons.dev/icons?i=photoshop,premiere,aftereffects,illustrator,davinciresolve,blender,figma,python,javascript,html,css,git,github&theme=dark&perline=7" alt="技术栈" />
 </p>
 
 ---
@@ -113,9 +113,19 @@ JRPG / SIM 游戏    ██████░░░
 
 ## 🎯 2026 在进行 / Now
 
-- 🌱 正在学：**更优雅的自动化工作流**
-- 🔭 在看：**独立设计与摄影的边界**
-- ☕ 日常：**咖啡、胶片、和无止境的折腾**
+- 🌱 正在拍：**胶片与人像**
+- 🔭 在看：**光影、构图与分镜**
+- ☕ 日常：**扫街、调色、追番**
+
+---
+
+## 🌸 兴趣与创作 / Vibes
+
+- 📷 摄影：旅拍 · 风光 · 人文，胶片与数码并行
+- 🎨 视觉：调色 · 排版 · 平面与动态
+- 🌸 二次元：ACGN · 科幻 · JRPG · MMO
+- 🎵 声音：LIMI · 新裤子 · 落日飞车
+- 🎮 主机：PS / Xbox / Switch / PC
 
 ---
 
@@ -139,7 +149,7 @@ JRPG / SIM 游戏    ██████░░░
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7c6df2&height=90&section=footer" alt="页脚" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff7eb6&height=90&section=footer" alt="页脚" />
   <br/>
   <sub>© 2026 ooneiroslyl · Made with ❤️ and too much coffee</sub>
 </div>
